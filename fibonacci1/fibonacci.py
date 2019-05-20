@@ -26,3 +26,6 @@ else:
         n1 = n2
         n2 = nth
         count = count + 1
+
+
+    #end of program 
