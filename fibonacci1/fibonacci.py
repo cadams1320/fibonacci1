@@ -1,7 +1,7 @@
 # Program to display the Fibonacci sequence up to the n-th term where n is provided by the user
 
 # Change this value for a different result
-nterms = int(input("Enter a number to calculate up to "))
+nterms = int(input("Enter a number to calculate up to a max of 100 "))
 
 # uncomment to take input from the user
 #nterms = int(input("How many terms?"))
@@ -28,4 +28,4 @@ else:
         count = count + 1
 
 
-    #end of program 
+    #end of program
